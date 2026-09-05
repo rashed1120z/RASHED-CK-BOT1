@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "☢️𝐉𝐎𝐘 𝐄𝐑 𝐁𝐎𝐓⚠️",
-  "PREFIX": "/",
+  "BOTNAME": "SAHU CHAT BOT1",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100089653472034",
-    "61576352608781",
-    "61583151110380"
+    "61555749941077",
+    "61592528528938",
+    "61593500890532"
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["61555749941077"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
